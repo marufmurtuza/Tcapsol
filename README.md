@@ -1,6 +1,6 @@
 # Captcha-Solver-AI
 ```
-This is one of my basic AI pet project to solve Text Based Captchas (Both OCR & Handwritten)
+This is one of my basic AI pet project to solve Text Based Captchas using RNN, CTC and CNN models (Both OCR & Handwritten)
 ```
 # Dataset Used to train the AI
 ```
