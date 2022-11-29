@@ -1,3 +1,8 @@
 # Captcha-Solver-AI
-This is a basic AI project to solve Text Based Captchas (Both OCR & Handwritten)
-Dataset used in the project: https://www.kaggle.com/datasets/fanbyprinciple/captcha-images
+```
+This is one of my basic AI pet project to solve Text Based Captchas (Both OCR & Handwritten)
+```
+# Dataset Used to train the AI
+```
+https://www.kaggle.com/datasets/fanbyprinciple/captcha-images
+```
